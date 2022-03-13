@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="GNT FHD">
+    <display-name lang="pt">GNT FHD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="GNT">
+    <display-name lang="pt">GNT FHD [H265]</display-name>
+    <icon src="../canais/1618593631.gif|../canais/1617141781.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="GNT HD">
+    <display-name lang="pt">GNT HD</display-name>
+    <url>http://www.hagah.com.br</url>
+  </channel>
+  <channel id="GNT SD">
+    <display-name lang="pt">GNT SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+</tv>
